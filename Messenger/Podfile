@@ -7,7 +7,7 @@ target 'app' do
 	pod 'Crashlytics'
 	pod 'FBSDKCoreKit'
 	pod 'FBSDKLoginKit'
-	pod 'Firebase/Core'
+	pod 'Firebase/Core', '4.13.0'
 	pod 'Firebase/Auth'
 	pod 'Firebase/Database'
 	pod 'Firebase/Storage'
