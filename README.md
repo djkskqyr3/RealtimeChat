@@ -6,10 +6,16 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 
 ---
 
-<img src="http://relatedcode.com/screen35/chat11.png" width="290">.<img src="http://relatedcode.com/screen35/call1.png" width="290">.<img src="http://relatedcode.com/screen35/chats2.png" width="290">
-<img src="http://relatedcode.com/screen35/settings2.png" width="290">.<img src="http://relatedcode.com/screen35/calls.png" width="290">.<img src="http://relatedcode.com/screen35/chat07.png" width="290">
+<img src="http://relatedcode.com/screen40/chat03.png" width="290">.<img src="http://relatedcode.com/screen40/call1.png" width="290">.<img src="http://relatedcode.com/screen40/chats2.png" width="290">
+<img src="http://relatedcode.com/screen40/settings2.png" width="290">.<img src="http://relatedcode.com/screen40/calls.png" width="290">.<img src="http://relatedcode.com/screen40/chat07.png" width="290">
 
 ---
+
+## ADDITIONAL FEATURES
+#### These features are only available as a custom development.
+
+- Group chat
+- Parse backend (using Parse Live Query)
 
 ## [PREMIUM FEATURES](http://relatedcode.com/premium)
 #### You can purchase the Premium version [here](http://relatedcode.com/premium).
@@ -62,7 +68,6 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 - Typing indicator
 - Message delivery receipt
 - Message read receipt
-- On-screen audio recording
 - Save picture messages to device
 - Save video messages to device
 - Save audio messages to device
@@ -90,8 +95,8 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 
 ---
 
-<img src="http://relatedcode.com/screen35/addfriends.png" width="290">.<img src="http://relatedcode.com/screen35/chat09.png" width="290">.<img src="http://relatedcode.com/screen35/settings_switch.png" width="290">
-<img src="http://relatedcode.com/screen35/settings_cache.png" width="290">.<img src="http://relatedcode.com/screen35/settings_archive1.png" width="290">.<img src="http://relatedcode.com/screen35/chat04.png" width="290">
+<img src="http://relatedcode.com/screen40/addfriends.png" width="290">.<img src="http://relatedcode.com/screen40/chat08.png" width="290">.<img src="http://relatedcode.com/screen40/settings_switch.png" width="290">
+<img src="http://relatedcode.com/screen40/settings_cache.png" width="290">.<img src="http://relatedcode.com/screen40/settings_archive1.png" width="290">.<img src="http://relatedcode.com/screen40/chat04.png" width="290">
 
 ---
 
@@ -127,8 +132,8 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 
 ---
 
-<img src="http://relatedcode.com/screen35/profile2.png" width="290">.<img src="http://relatedcode.com/screen35/people.png" width="290">.<img src="http://relatedcode.com/screen35/chat06.png" width="290">
-<img src="http://relatedcode.com/screen35/chat05.png" width="290">.<img src="http://relatedcode.com/screen35/settings1.png" width="290">.<img src="http://relatedcode.com/screen35/chats3.png" width="290">
+<img src="http://relatedcode.com/screen40/profile2.png" width="290">.<img src="http://relatedcode.com/screen40/people.png" width="290">.<img src="http://relatedcode.com/screen40/chat06.png" width="290">
+<img src="http://relatedcode.com/screen40/chat05.png" width="290">.<img src="http://relatedcode.com/screen40/settings1.png" width="290">.<img src="http://relatedcode.com/screen40/chats3.png" width="290">
 
 ---
 
@@ -148,5 +153,5 @@ THE SOFTWARE.
 
 ---
 
-<img src="http://relatedcode.com/screen35/chat10.png" width="290">.<img src="http://relatedcode.com/screen35/call2.png" width="290">.<img src="http://relatedcode.com/screen35/profile1.png" width="290">
-<img src="http://relatedcode.com/screen35/allmedia2.png" width="290">.<img src="http://relatedcode.com/screen35/picture1.png" width="290">.<img src="http://relatedcode.com/screen35/settings_status1.png" width="290">
+<img src="http://relatedcode.com/screen40/chat01.png" width="290">.<img src="http://relatedcode.com/screen40/call2.png" width="290">.<img src="http://relatedcode.com/screen40/profile1.png" width="290">
+<img src="http://relatedcode.com/screen40/allmedia2.png" width="290">.<img src="http://relatedcode.com/screen40/picture1.png" width="290">.<img src="http://relatedcode.com/screen40/settings_status1.png" width="290">
